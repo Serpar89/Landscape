@@ -1,0 +1,271 @@
+/* 
+    Created on : 04.06.2015, 22:24:03
+    Author     : Serpar
+*/
+body {
+	text-align: center;
+	margin: 0px 0px 0px 0px;
+	background-image: url(bodycolor.jpg);	
+}
+a { 
+	text-decoration: none;
+	color: inherit;
+
+}
+p {
+	margin-bottom: 0px;
+}
+.clear {
+	clear: both;
+}
+.colgrey {
+	color: #716355;
+}
+.colgrey2 {
+	color: #999e71;
+}
+.logo {
+	position: absolute;
+	z-index: 1;
+	width: 100%;
+	height: 100%;
+	padding: 0px;
+    margin: 0px 0px 0px 0px;
+}
+.main {
+	width: 980px;
+	padding: 0px;
+    margin: 0px auto;
+}
+.head {
+	width: 980px;
+	padding-top: 260px;
+}
+.mainname {
+	position: relative;
+	z-index: 3;
+	font-size: 50px;
+}
+.mainname2 {
+	position: relative;
+	z-index: 3;
+	color: #ada575;
+  	font-family: 'Georgia';
+  	font-size: 30px;
+}
+.navigation {
+	border-top: 1px dotted #999999;
+	border-bottom: 1px dotted #999999;
+	position: relative;
+	z-index: 3;
+	margin-top: 20px;
+	height: 66px;
+}
+
+.nb1 {
+	border:1px dotted #999999;
+	padding-top: 20px;
+	padding-left: 33px;
+	padding-right: 30px;
+	padding-bottom: 20px;
+	float: left;
+	text-align: center;
+  	font-family: 'Georgia';
+  	font-size: 20px;
+  	color: #979761;
+}
+.maincontent {
+	margin-top: 67px;
+	position:relative;
+	z-index: 3;
+	
+}
+.mainblock {
+	position:relative;
+	margin:20px 15px 0px 20px;
+	width:291px;
+	height:495px;
+	background-image:url(bgimage.jpg);
+	float:left;
+}
+.img {
+	margin-top:30px;
+	padding:7px 7px 7px 7px;
+	border: 1px solid rgb(205, 200, 147);
+}
+.blocktext {
+	font-family: 'PT Sans Narrow';
+  	font-size: 26px;
+  	color: #8c7d67;
+}
+.spimg {
+	display:block;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-family: 'Georgia';
+	font-size: 32px;
+  	color: #7b952b;
+}
+.buttondiv{
+	margin:30px auto;
+	height: 38px;
+  	width: 119px;
+}
+.buttondiv2 {
+  margin: 40px 266px;
+  height: 38px;
+  width: 119px;
+}
+.button {
+	display: block;
+	height: 38px;
+  	width: 119px;
+	font-family: 'Georgia';
+  	font-size: 18px;
+	color: #FFF;
+	display: table-cell;
+  	vertical-align: middle;
+	margin-top:20px;
+	background-color: rgb(205, 202, 148);	
+}
+.button2 {
+	display: block;
+	height: 38px;
+  	width: 119px;
+	font-family: 'Georgia';
+  	font-size: 18px;
+	color: #FFF;
+	display: table-cell;
+  	vertical-align: middle;
+	margin-top:20px;
+	background-color: rgb(114, 100, 86);	
+}
+.button2:hover {
+	background-color: rgb(205, 202, 148);
+
+}
+.button:hover {
+	background-color: rgb(114, 100, 86);
+}
+.line {
+	margin-top: 33px;
+	display: block;
+	line-height: 22px;
+	position:relative;
+	z-index:3;
+}
+.bottomcontent {
+	position:relative;
+	z-index:3;
+}
+.bottext {
+	margin-top:40px;
+	font-family: 'Georgia';
+  	font-size: 32px;
+  	color: #6d593d;
+	text-align:left;
+}
+.botimage {
+	float:left;
+	text-align:left;
+}
+.bgcol1 {
+	background-color: rgb(254, 249, 212);
+}
+.bottext2 {
+	width:520px;
+	height:80px;
+	padding-left: 267px;
+	margin-top:40px;
+	font-family: 'Arial';
+  	font-size: 14px;
+  	color: #928575;
+	text-align:left;
+}
+.footer {
+	background-image:url(footer.jpg);
+	height:131px;
+	position:relative;
+	width:1349;
+	z-index:3;
+}
+.bottomli{
+	height:200px;
+	position:relative;
+	z-index:3;
+	
+}
+.text {
+	display: block;
+	width:150px;
+	margin:17px 88px;
+	float:left;
+	font-weight: normal;
+  	font-style: italic;
+  	text-decoration: none;
+  	text-align: left;
+  	font-family: 'Georgia';
+  	font-size: 14px;
+  	color: #363028;
+  	letter-spacing: 0px;
+}
+.copyr {
+	color:#FFF;
+	padding-top:60px;
+	font-weight:bold;
+}
+.li:hover {
+	text-decoration: underline;	
+}
+.about {
+	position:relative;
+	margin:20px 15px 0px 20px;
+	height:450px;
+	background-image:url(bgimage.jpg);
+	z-index:3;
+	
+}
+/* 
+    С агролюкс документа
+*/
+
+.midblock1 {
+	width:300px;
+	height:450px;
+	float:left;
+	text-align:center;
+	background-image:url(img/block-1_shape.jpg);
+}
+.addmidmg1 {
+	margin:0px 20px 0px 20px;
+}
+.midlogo1 {
+	padding:20px 0px 0px 0px;
+}
+.midtext1 { 
+	width:198px;
+	margin:0px auto;
+	text-align:left;
+}
+.test {
+	background-color:#0CC;
+	position:relative;
+	width:960px;
+	height:1900px;
+	z-index:3;
+}
+.form {
+	margin-top: 30px;
+	background-image: url(bodycolor.jpg);
+	position:relative;
+	width:200px;
+	margin-left:400px;
+	z-index:3;
+}
+.result  {
+	position:relative;
+	z-index:3;
+}
+.f1 {
+	float:none;
+}
